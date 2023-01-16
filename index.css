@@ -1,0 +1,37 @@
+#home {
+	background-image: url(https://cdn.pixabay.com/photo/2022/10/20/11/26/landscape-7534634_1280.jpg);
+	height: 100vh;
+
+}
+
+ #home img{
+ 	width: 11vw;
+ 	height: 11vw;
+ 	border-radius: 30vw;
+ 	margin-left: 43vw;
+ 	margin-top: 30vh;
+ }
+#about-us {
+	background-image: url(https://kaboompics.com/cache/d/1/7/2/5/d17251e8f451a827bb0e732c64120db6a797233c.jpeg);
+	text-align: center;
+	
+	padding: 100px;
+} 
+
+#gallery {
+	background-color: lightsteelblue;
+	
+	text-align: center;
+
+}
+#contact {
+	background-color: lightskyblue;
+	padding: 100px;
+}
+#gallery img{
+	width: 30vw;
+	height: 40vh;
+}
+* {
+	font-family: sans-serif;
+}
