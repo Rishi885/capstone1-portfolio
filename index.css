@@ -5,32 +5,39 @@
 }
 
  #home img{
- 	width: 11vw;
- 	height: 11vw;
- 	border-radius: 30vw;
- 	margin-left: 43vw;
- 	margin-top: 30vh;
+ 	width: 15vw;
+ 	height: 15vw;
+ 	border-radius: 40vw;
+ 	margin-left: 40vw;
+ 	margin-top: 20vh;
  }
 #about-us {
 	background-image: url(https://kaboompics.com/cache/d/1/7/2/5/d17251e8f451a827bb0e732c64120db6a797233c.jpeg);
 	text-align: center;
-	
-	padding: 100px;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	min-height: 60vh;
+	padding-top: 60px;
+	padding-bottom: 50px;
 } 
 
 #gallery {
 	background-color: lightsteelblue;
-	
 	text-align: center;
+	padding-top: 30vh;
+	
+	padding-bottom: 60px;
+	min-height: 60vh;
+	
 
 }
 #contact {
 	background-color: lightskyblue;
-	padding: 100px;
+	padding-top: 50px;
+	padding-bottom: 150px;
 }
 #gallery img{
-	width: 30vw;
-	height: 40vh;
+	height: 35vh;
 }
 * {
 	font-family: sans-serif;
